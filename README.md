@@ -1,6 +1,6 @@
-# Sorting Algorithm Visualizer (Base44)
+# Sorting Algorithm Visualizer
 
-An interactive **Sorting Algorithm Visualizer web application** built using **Base44** to help students understand core computer science sorting algorithms through visual animations.
+An interactive **Sorting Algorithm Visualizer web application** to help students understand core computer science sorting algorithms through visual animations.
 
 🔗 Live Demo: https://algo-viz-d883d5e8.base44.app/
 
